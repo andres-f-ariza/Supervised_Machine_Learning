@@ -12,3 +12,7 @@ NOTE: the units of size are 1000 sqft and the units of price are 1000s of dollar
 This file makes use of tools like NumPy, Matplotlib, and lab_utils_uni.py which contain local plotting routines and is found in this repo.
 Problem Statement: You would like a model which can predict housing prices given the size of the house.
 
+3. 3_Gradient_Descent_Soln: automation of the process of optimizing  𝑤  and  𝑏  using gradient descent.
+This file makes use of tools like NumPy, Matplotlib, and lab_utils_uni.py.
+Problem Statement: You would like to automate the process of optimizing  𝑤  and  𝑏  using gradient descent.
+
