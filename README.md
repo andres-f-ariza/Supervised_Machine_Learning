@@ -16,3 +16,9 @@ Problem Statement: You would like a model which can predict housing prices given
 This file makes use of tools like NumPy, Matplotlib, and lab_utils_uni.py.
 Problem Statement: You would like to automate the process of optimizing  𝑤  and  𝑏  using gradient descent.
 
+4. 4_Python_Numpy_Vectorization_Soln.ipynb: Useful Numpy tools
+- vectors/matrices creation.
+- indexing/slicing on vectors/matrices.
+- operations on vectors/matrices: negation, scalar product, sum of elements, mean of elements, potentiation of elements.
+- vector vector operations: dot product.
+
