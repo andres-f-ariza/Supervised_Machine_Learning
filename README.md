@@ -22,3 +22,7 @@ Problem Statement: You would like to automate the process of optimizing  𝑤  a
 - operations on vectors/matrices: negation, scalar product, sum of elements, mean of elements, potentiation of elements.
 - vector vector operations: dot product.
 
+5. 5_Multiple_Variable_Soln: Extend regression model routines to support multiple features
+- Extend data structures to support multiple features
+- Rewrite prediction, cost and gradient routines to support multiple features
+
